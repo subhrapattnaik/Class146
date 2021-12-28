@@ -1,4 +1,4 @@
-# PRO-C146-Teacher-Ref
+# PRO-C146
 
 \
 We can use the animation component in A-Frame for orbiting planets around the sun.
