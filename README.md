@@ -17,4 +17,9 @@ mentioned in milliseconds. Default value is 1000 milliseconds(1 sec= 1000 millis
 easing: It is a timing function, which can be used to change the animation speed per animation cycle. Default value is “easeInQuad”.
 \
 loop: How many loops(number) i.e. many times the animation should repeat. If the value is true, the animation will repeat infinitely.
+\
+\
+\
+\
+The <a-camera> component is used to define the perspective view of the user and it can be attached to the input devices to control the camera movements.
 
